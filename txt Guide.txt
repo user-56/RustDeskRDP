@@ -1,0 +1,7 @@
+Extract and first upload README.md to your newly made github repo
+
+and click add file > create file , type .github/worklflows/test and save
+then Upload 2 Of that workflow yml files
+
+4H = maximum is 4 hours
+6H = maximum is 6 hours 
